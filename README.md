@@ -20,7 +20,7 @@ This is a simple web application that fetches random jokes from the Chuck Norris
 
 ## How It Works
 
-1. The user clicks the "Get Joke" button.
+1. The user clicks the "Tell me a Joke!" button.
 2. The application makes an API request to fetch a random Chuck Norris joke.
 3. The joke is displayed on the webpage.
 4. If there is any error during the process, it will be logged in the console.
