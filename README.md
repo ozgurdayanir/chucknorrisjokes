@@ -3,6 +3,7 @@
 This is a simple web application that fetches random jokes from the Chuck Norris Joke API and displays them on the page when a button is clicked.
 
 ## Screen Shot
+**Web address** https://ozgurdayanir.github.io/chucknorrisjokes/
 ![ScreenShot](/img/screenshot.png)
 
 ## Features
